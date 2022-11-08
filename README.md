@@ -1,4 +1,4 @@
-# drought-info
+# drought-cp
 
 배포 주소 : https://drought-info.herokuapp.com <br/>
 DE 과정 : https://github.com/jiyun330/drought-info#readme <br/>
