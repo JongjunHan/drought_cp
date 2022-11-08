@@ -1,8 +1,7 @@
 # drought-cp
 
 배포 주소 : https://drought-info.herokuapp.com <br/>
-DE 과정 : https://github.com/jiyun330/drought-info#readme <br/>
-DS 모델 과정 : https://github.com/JongjunHan/AI_13_CP1_Team15
+모델링 과정 : https://github.com/JongjunHan/AI_13_CP1_Team15
 
 ### 디렉토리 구조
 <img width="340" alt="image" src="https://user-images.githubusercontent.com/102279444/190044879-ad35c650-88ec-4fc0-908e-39fb99516dbd.png">
