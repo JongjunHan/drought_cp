@@ -2,7 +2,6 @@
 <p align="justify">
 </p>
 
-배포 주소 : https://drought-info.herokuapp.com <br/>
 모델링 과정 : https://github.com/JongjunHan/drought_ds
 
 ## 프로젝트 목표
